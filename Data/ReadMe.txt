@@ -1,0 +1,4 @@
+- alltypes.csv file contains all types of symptoms and corresponding diseases
+- external-behavioral.csv only contains external and behavioural symptoms and not internal 
+- the other 3 .docx files are data as provided by NCAAH
+- the symptoms are grouped in external manifest grouped.docx and project.ods
