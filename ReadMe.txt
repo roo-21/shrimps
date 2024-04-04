@@ -1,3 +1,6 @@
+A basic Android application made with Jetpack Compose for shrimp disease prediction using a rule-based approach.
+
+
 -- app-debug.apk is the final apk file
 
 -- diseases.ipynb is used to generate diseases.pkl which is a dictionary with disease as key and symptoms corresponding to it as values
